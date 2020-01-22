@@ -1,0 +1,8 @@
+model\entity\Person.class
+controller\person\Save.class
+model\service\PersonService.class
+controller\person\Update.class
+model\repository\PersonDA.class
+controller\person\Get.class
+controller\person\Delete.class
+model\service\PersonServiceImpl.class
